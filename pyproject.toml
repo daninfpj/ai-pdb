@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ai-pdb"
-version = "0.1.0"
+version = "0.1.1"
 description = "The Python Debugger (PDb) augmented with AI."
 authors = ["Daniel Infante Vargas <daninfpj@gmail.com>"]
 readme = "README.md"

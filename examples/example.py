@@ -1,7 +1,7 @@
 from collections import defaultdict
 from typing import Dict, List
 
-from ai_pdb.ai_pdb import AIPdb
+from ai_pdb import AIPdb
 
 debugger = AIPdb()
 

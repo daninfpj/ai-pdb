@@ -2,7 +2,7 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from ai_pdb.ai_pdb import AIPdb
+from ai_pdb import AIPdb
 
 
 @pytest.fixture
