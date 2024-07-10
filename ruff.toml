@@ -1,0 +1,9 @@
+target-version = "py38"
+
+[lint]
+select = ["B", "C901", "E", "F", "I", "N", "RUF", "S", "UP", "W"]
+# select = ["ALL"]
+# ignore = ["ANN", "COM812", "D", "ISC001", "T100"]
+
+[lint.per-file-ignores]
+"tests/**.py" = ["S101"]
