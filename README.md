@@ -29,7 +29,7 @@ You should have `ANTHROPIC_API_KEY` available in your ENV to be able to use this
 To use `ai-pdb`, simply import it in your Python script and start the debugger as you normally would:
 
 ```python
-from ai_pdb.ai_pdb import AIPdb
+from ai_pdb import AIPdb
 
 debugger = AIPdB()
 
