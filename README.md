@@ -68,3 +68,7 @@ ai query <custom query>
 ```
 
 You can ask Claude anything. Your question is automatically enriched with the execution context, providing all necessary information.
+
+## Demo
+
+![ai-pdb](https://github.com/daninfpj/ai-pdb/assets/782931/7f27da73-4b58-4780-b7bf-d81bf6a7d518)
