@@ -8,6 +8,8 @@ The Python Debugger (PDb) augmented with AI.
 
 Use Claude directly from your debugging environment to avoid copying and pasting back and forth.
 
+![ai-pdb](https://github.com/daninfpj/ai-pdb/assets/782931/cc7b8f3c-0338-44bc-8f70-9818b3a19de7)
+
 ## Features
 
 - AI-assisted debugging prompts
